@@ -41,16 +41,16 @@ We made this project to learn how computer vision and edge AI work in practice, 
 ## 🚀 Technical Approach <a name="technical-approach"></a>
 ### Hardware
 - ✨ NVIDIA — _Jetson Nano_
-  - ARM — _(AArch64)_
-  - GPU — _(CUDA cores)_
-- 🧩 Camera — _(Logitech)_
-  - USB — _(HD 720P)_
+  - ARM — _AArch64_
+  - GPU — _CUDA cores_
+- 🧩 Camera — _Logitech_
+  - USB — _HD 720P_
 
 ### Software
 - ⚙️ Ubuntu Linux — _OS_
 
 ### Programming Language
-- 📱 Python 3
+- 📱 Python3
 
 ### Machine Learning / AI
 - 🌡️ Edge Impulse Studio
@@ -74,17 +74,13 @@ git clone https://github.com/MauroDeBruyn/REPO-NAME.git
 cd REPO-NAME
 
 # Install dependencies
-# Example for npm, flutter, python, etc.
+# Example for np, pip, python, etc.
 npm install
-# or
-flutter pub get
 # or
 pip install -r requirements.txt
 
 # Run the app
 npm start
-# or
-flutter run
 # or
 python app.py
 ```
@@ -93,33 +89,26 @@ python app.py
 
 ## 🗺️ Roadmap <a name="roadmap"></a>
 - ✅ **Completed**
-   - _Completed feature 1_
-   - _Completed feature 2_
-   - _..._
+   - _Camera sees signs clearly_
+   - _AI-model can define sign types with some accuracy_
 
 - 🔄 **Ongoing**
-   - _Ongoing feature 1_
-   - _Ongoing feature 2_
-   - _..._
-
-- 🚀 **Future**
-   - _Future feature 1_
-   - _Future feature 2_
-   - _..._
+   - _Creating larger and preciser dataset for better AI accuracy_
 
 ---
 
 ## ⚙️ Project Requirements <a name="project-requirements"></a>
-- **Requirement 1 :** _Short description_
-- **Requirement 2 :** _Short description_
-- **Requirement 3 :** _Short description_
-- _..._
+- **Requirement 1 :** _The Jupyter Notebook has a clear representation of the workings of the project_
+- **Requirement 2 :** _The Notebook works out of the box_
+- **Requirement 3 :** _The Notebook shows a step-by-step operation of the project_
+- **Requirement 4 :** _Notebook can be presented/demonstrated clearly_
 
 ---
 
 ## 📚 Documentation <a name="documentation"></a>
-- See [Application Note](./resources/Docs/application_note.md) for technical details.
-- System architecture, hardware specs, and YAML setup guides are available in the `/hardware` directory.
+- See README about PC based AI and Jetson Nano based AI in their respective folders for better explanations.
+- Jetson Nano based AI:(https://github.com/LoicSchillings/SmartSystems/tree/main/resources/Jetson-Nano-Based-AI)
+- PC based AI: (https://github.com/LoicSchillings/SmartSystems/tree/main/resources/PC-Based-AI)
 
 ---
 
