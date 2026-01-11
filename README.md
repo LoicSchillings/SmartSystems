@@ -31,25 +31,36 @@
 ---
 
 ## 🧭 About <a name="about"></a>
-_A short summary of your project goes here._  
-Explain **what** it does, **why** you made it, and **who** it’s for.
+This project uses a camera and artificial intelligence to recognize traffic signs in real time. The system runs on a Jetson Nano and uses a model trained with Edge Impulse to process images directly on the device.
 
-> Example:  
-> A companion app designed to support a physical or digital game by tracking roles, events, and scores.
+We made this project to learn how computer vision and edge AI work in practice, and to show that traffic sign recognition can be done without using cloud services. Running the model locally makes the system fast and reliable.
+
 
 ---
 
 ## 🚀 Technical Approach <a name="technical-approach"></a>
 ### Hardware
 - ✨ NVIDIA — _Jetson Nano_
-  - ARM
-- 🧩 Feature 2 — _Short description_
-- ⚙️ Feature 3 — _Short description_
-- 📱 Feature 4 — _Short description_
-- 🌡️ Feature 5 — _Short description_
-- 📡 Feature 6 — _Short description_
-- 🔋 Feature 7 — _Short description_
-- 🛠️ Feature 8 — _Short description_
+  - ARM — _(AArch64)_
+  - GPU — _(CUDA cores)_
+- 🧩 Camera — _(Logitech)_
+  - USB — _(HD 720P)_
+
+### Software
+- ⚙️ Ubuntu Linux — _OS_
+
+### Programming Language
+- 📱 Python 3
+
+### Machine Learning / AI
+- 🌡️ Edge Impulse Studio
+  - Dataset management
+  - Labeling
+  - Training
+
+### Model Runtime
+- 📡 Edge Impulse Linux SDK — _edge-impulse-linux_
+- 🔋 Model Format — _.eim format_
 
 ---
 
@@ -117,5 +128,3 @@ python app.py
 - **Ine Beddegenoots** – Student – [GitHub](https://github.com/inebdg)  
 - **Loic Schillings** – Student – [GitHub](https://github.com/LoicSchillings)
 - **Mauro De Bruyn** – Author – [GitHub](https://github.com/MauroDeBruyn)
-
-> 💡 Add more contributors as needed. Replace "Contributor Name" and GitHub links with actual collaborators.
