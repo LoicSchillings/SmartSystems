@@ -1,24 +1,21 @@
 
 <h1 align="center">
-  <a href="#"> 🧩 Project Title </a>
+  <a href="#"> Smart Systems Project </a>
 </h1>
 
 <p align="center">
-  <a href="https://github.com/MauroDeBruyn/">
-    <img alt="MauroDeBruyn - tempateProject" src="https://img.shields.io/static/v1?label=MauroDeBruyn&message=temlateProject&color=purple&logo=github"></a>
-  </a>
 
-  <img alt="Stars" src="https://img.shields.io/github/stars/MauroDeBruyn/REPO-NAME?style=social">
+  <img alt="Stars" src="https://img.shields.io/github/stars/LoicSchillings/SmartSystems?style=social">
   
-  <a href="https://github.com/MauroDeBruyn/REPO-NAME">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MauroDeBruyn/REPO-NAME">
+  <a href="https://github.com/LoicSchillings/SmartSystems">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LoicSchillings/SmartSystems">
   </a>
 </p>
 
-![Project Banner](./resources/media/banner.png)
+![Project Banner](./resources/images/image-1.png)
 
 <h4 align="center"> 
-   Status: 🚧 Work In Progress / ✅ Completed / 🧪 Prototype
+   Status: 🧪 Prototype
 </h4>
 
 <p align="center">
@@ -43,7 +40,9 @@ Explain **what** it does, **why** you made it, and **who** it’s for.
 ---
 
 ## 🚀 Technical Approach <a name="technical-approach"></a>
-- ✨ Feature 1 — _Short description_
+### Hardware
+- ✨ NVIDIA — _Jetson Nano_
+  - ARM
 - 🧩 Feature 2 — _Short description_
 - ⚙️ Feature 3 — _Short description_
 - 📱 Feature 4 — _Short description_
@@ -114,9 +113,9 @@ python app.py
 ---
 
 ## 👥 Contributors <a name="contributors"></a>
-
-- **Mauro De Bruyn** – Author / Student – [GitHub](https://github.com/MauroDeBruyn)  
-- **Contributor Name** – Student / Developer – [GitHub](https://github.com/githubusername)  
-- **Contributor Name** – Student / Tester – [GitHub](https://github.com/githubusername)  
+  
+- **Ine Beddegenoots** – Student – [GitHub](https://github.com/inebdg)  
+- **Loic Schillings** – Student – [GitHub](https://github.com/LoicSchillings)
+- **Mauro De Bruyn** – Author – [GitHub](https://github.com/MauroDeBruyn)
 
 > 💡 Add more contributors as needed. Replace "Contributor Name" and GitHub links with actual collaborators.
