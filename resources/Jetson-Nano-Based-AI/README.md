@@ -66,6 +66,16 @@ In this environment:
 - The AI model ran successfully
 - Inference was stable without crashes
 
+To open this environment run these commands in terminal:
+
+```bash
+- python3.8 -m venv ei-env
+- source ei-env/bin/activate
+- Then install all libraries
+```
+
+
+
 ---
 
 ### 5. Dataset Limitation
